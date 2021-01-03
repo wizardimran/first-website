@@ -1,4 +1,6 @@
-img{
+.emma{
     width: 500px;
     height: auto;
+    border: 90px;
+    border-radius: 5px;
 }
